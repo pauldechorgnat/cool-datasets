@@ -68,3 +68,6 @@
 <td>list of genres of the movie</td>
 </tr>
 </table>
+
+<div class="alert-warning">
+The dataset is not actually very accurate because IMDB provides only some of the actors per movie. I might change it in the future.</div>
